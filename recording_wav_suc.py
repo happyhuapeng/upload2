@@ -1,6 +1,6 @@
 import wave
 from pyaudio import PyAudio, paInt16
-
+# ceshi version control
 framerate = 8000
 NUM_SAMPLES = 2000
 channels = 1
